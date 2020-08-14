@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCompass</string>
+    <string name ="compValue">00</string>
+    <string name = "X" > X-Value </string>
+    <string name = "Y" > Y-Value </string>
+    <string name = "Z" > Z-Value </string>
+</resources>
